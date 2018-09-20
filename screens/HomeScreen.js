@@ -42,7 +42,11 @@ export default class HomeScreen extends React.Component {
             </View>
 
             <Text style={styles.getStartedText}>
+<<<<<<< HEAD
               Making earth a better place together. Socialize to help communities.
+=======
+              Making earth a better place together.Master again
+>>>>>>> master
             </Text>
           </View>
 
