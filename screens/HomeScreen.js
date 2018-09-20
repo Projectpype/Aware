@@ -42,7 +42,7 @@ export default class HomeScreen extends React.Component {
             </View>
 
             <Text style={styles.getStartedText}>
-              Making madarchod earth a better place.
+              Making earth a better place.
             </Text>
           </View>
 
