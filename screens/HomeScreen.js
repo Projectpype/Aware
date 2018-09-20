@@ -43,7 +43,7 @@ export default class HomeScreen extends React.Component {
 
             <Text style={styles.getStartedText}>
 <<<<<<< HEAD
-              Making earth a better place together. Socialize to help community. All of me.
+              Making earth a better place together. Socialize to help community.
 
 =======
               
